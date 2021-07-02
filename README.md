@@ -1,8 +1,1 @@
-Integrantes:
 
-Tomás Ferreyra:"Hola! Yo soy Tomás, tengo 19 años y estoy haciendo este proyecto en conjunto con dos compañeros para poder entregarlo como trabajo en el curso de Digital House"
-
-
-Descripcion del eComerse:
-
-Sitios de referencia:
